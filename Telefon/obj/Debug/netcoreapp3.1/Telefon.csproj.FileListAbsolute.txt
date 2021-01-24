@@ -1,0 +1,13 @@
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.csprojAssemblyReference.cache
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.AssemblyInfoInputs.cache
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.AssemblyInfo.cs
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.csproj.CoreCompileInputs.cache
+D:\PO\Telefon\Telefon\bin\Debug\netcoreapp3.1\Telefon.exe
+D:\PO\Telefon\Telefon\bin\Debug\netcoreapp3.1\Telefon.deps.json
+D:\PO\Telefon\Telefon\bin\Debug\netcoreapp3.1\Telefon.runtimeconfig.json
+D:\PO\Telefon\Telefon\bin\Debug\netcoreapp3.1\Telefon.runtimeconfig.dev.json
+D:\PO\Telefon\Telefon\bin\Debug\netcoreapp3.1\Telefon.dll
+D:\PO\Telefon\Telefon\bin\Debug\netcoreapp3.1\Telefon.pdb
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.dll
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.pdb
+D:\PO\Telefon\Telefon\obj\Debug\netcoreapp3.1\Telefon.genruntimeconfig.cache
